@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning Vue.js
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
 
 <br><br>
 
