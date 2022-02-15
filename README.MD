@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Vue.js
 
-- 👨‍💻 You can find my personal and study projects at [hosamaoliveira.github.io](https://hosamaoliveira.github.io)
+- 👨‍💻 You can find my personal and study projects at [hosamaoliveira.github.io](https://hosamaoliveira.github.io)🚧 Under construction...  🚧
 
 
 <br><br>
