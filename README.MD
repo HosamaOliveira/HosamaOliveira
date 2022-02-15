@@ -1,3 +1,4 @@
+<img src="https://media4.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif?cid=ecf05e47qy8f0sjgcwn53nlynz4rzosvd5kuvo77k5phjs1o&rid=giphy.gif&ct=g" alt="" align="right">
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Hosama Oliveira</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HosamaOliveira&color=yellow" alt="Profile views" /> </p>
