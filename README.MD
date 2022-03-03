@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HosamaOliveira&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Programming student
+- 🔥 Front end developer 
 
 - 🌱 I’m currently learning Vue.js
 
